@@ -1,0 +1,15 @@
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\MMABooksDBClasses.deps.json
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\MMABooksDBClasses.dll
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\ref\MMABooksDBClasses.dll
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\MMABooksDBClasses.pdb
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\MMABooksBusinessClasses.dll
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\bin\Debug\net5.0\MMABooksBusinessClasses.pdb
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.csproj.AssemblyReference.cache
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.AssemblyInfoInputs.cache
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.AssemblyInfo.cs
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.csproj.CoreCompileInputs.cache
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.csproj.CopyComplete
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.dll
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\ref\MMABooksDBClasses.dll
+C:\Users\Stewartl\Downloads\ado_lab_2022-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksDBClasses\obj\Debug\net5.0\MMABooksDBClasses.pdb
